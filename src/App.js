@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <OrderForm name='Ramesh'></OrderForm>
-       <OrderForm name='Suresh'></OrderForm>
+        <OrderForm name='Ramesh'></OrderForm>
+        <OrderForm name='Suresh'></OrderForm>
       </header>
     </div>
   );
